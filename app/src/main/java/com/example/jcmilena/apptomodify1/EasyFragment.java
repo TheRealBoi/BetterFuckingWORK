@@ -17,7 +17,7 @@ public class EasyFragment extends Fragment {
     // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
     private static final String ARG_PARAM1 = "numero";
     private static final String ARG_PARAM2 = "color";
-
+//
     // TODO: Rename and change types of parameters
     private String mParam1 = "1";
     private int mParam2 = R.color.colorBlanco;

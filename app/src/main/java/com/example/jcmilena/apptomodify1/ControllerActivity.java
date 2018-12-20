@@ -7,6 +7,7 @@ import android.os.Bundle;
 
 public class ControllerActivity extends AppCompatActivity implements EasyFragment.EasyFragmentInterface {
 
+    //
     String fragment_number = "1";
     int fragment_color = R.color.colorFragment1;
     int fragment_container = R.id.fragment_container1;
